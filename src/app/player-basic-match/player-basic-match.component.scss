@@ -1,0 +1,20 @@
+.match-card{
+    display: flex;
+    flex-direction: column;
+}
+
+.card-body{
+
+}
+
+.match-result{
+    background-color: red;
+    min-width: 15px;
+    border-radius: 0.3rem 0rem 0rem 0.3rem;
+}
+
+.match-info{
+    display: flex;
+    flex-direction: row;
+    min-width: 95%;
+}

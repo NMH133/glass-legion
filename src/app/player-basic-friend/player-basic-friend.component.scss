@@ -1,0 +1,22 @@
+.column-secondary-div{
+    display: flex;
+    flex-direction: column;
+}
+.friend-card{
+    display:flex;
+    flex-direction: row;
+    text-align: center;
+    align-items: center;
+    margin: .5rem;
+    background-color: rgba($color: #000000, $alpha: .2)
+}
+
+.name-span-size{
+    width: 60%;
+    align-items: center;
+
+}
+
+.friend-icon{
+    width: 20%;
+}
